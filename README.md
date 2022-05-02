@@ -1,7 +1,7 @@
 **KYC**
 ---
 How to request KYC?
-To apply for our KYC just dm @quantumauditofficial on telegram.
+To apply for our KYC just dm https://t.me/elonnK on telegram.
 
 **KYC Procedure:**
 All projects that have obtained a KYC certificate from us have followed these steps:
